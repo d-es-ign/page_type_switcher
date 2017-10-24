@@ -1,0 +1,7 @@
+#publish div.publish_field {
+display: none;
+}
+
+#publish #hold_field_title, #publish #hold_field_url_title {
+display: block;
+}
